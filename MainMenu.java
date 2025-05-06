@@ -313,7 +313,7 @@ public class MainMenu extends Activity {
 
 
 
-        adManagerAdView.setAdUnitId("ca-app-pub-6316925525229729/6608599398");
+        
         //adManagerAdView.setAdUnitId("ca-app-pub-3940256099942544/9214589741");
         adViewContainer.addView(adManagerAdView);
 
