@@ -24,7 +24,8 @@ Card Memory is a classic card-matching game designed for all ages. Flip cards, f
 ## 📸 Screenshots
 
 <img src="https://play-lh.googleusercontent.com/4-W1fIE7NNhWnBYe_ZdQLGmsoKfsWkJN2bVroA_iNCnnh0fuiKdZPUX2e-8xlw5bC_s=w1052-h592-rw">
-
+<img src="https://play-lh.googleusercontent.com/xQvCOfF1_6-TxqltZPYybmovB-hs5wxNIFZNFKULXUOdU5Z3jvQ-dWuDBjssxJXhb0E=w1052-h592-rw">
+<img src="https://play-lh.googleusercontent.com/IDYUZMuTiaYXGrxrwKH7NA0m_Snk-WfCZFygd3m_To-ouYADX4sgZtPgwzCwWc65MQ=w1052-h592-rw">
 ## 🛠️ Built With
 
 - **Java** (48%)
