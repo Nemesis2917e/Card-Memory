@@ -27,28 +27,16 @@ Card Memory is a classic card-matching game designed for all ages. Flip cards, f
 
 ## 🛠️ Built With
 
-- **Java** (100%)
+- **Java** (48%)
 - **Android Studio**
+- **Javascript** (52%)
 
-## 📦 Installation
-
-To run the game locally:
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/Nemesis2917e/Card-Memory.git
-    ```
-2. Open the project in Android Studio.
-3. Build and run the app on your device or emulator.
 
 ## 🤝 Contributing
 
 Want to help improve Card Memory? Fork the repo, make your changes, and submit a pull request!
 Feel free to open issues for bugs or feature requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
