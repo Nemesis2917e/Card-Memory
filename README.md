@@ -23,7 +23,7 @@ Card Memory is a classic card-matching game designed for all ages. Flip cards, f
 
 ## 📸 Screenshots
 
-*(Add screenshots here to showcase the gameplay)*
+<img src="https://play-lh.googleusercontent.com/4-W1fIE7NNhWnBYe_ZdQLGmsoKfsWkJN2bVroA_iNCnnh0fuiKdZPUX2e-8xlw5bC_s=w1052-h592-rw">
 
 ## 🛠️ Built With
 
